@@ -1,7 +1,7 @@
 **自动无限轮播图，支持多种自定义效果**
 
 用法：<br>
-1、下载library，导入项目，并引用：compile project(':library')
+1、下载library，导入项目，并引用：compile project(':library')<br>
 2、概述：支持图片轮播、文字显示、指示点显示以及自定义指示点；图片支持加载本地资源文件图片，以及加载网络图片
 3、具体方法说明：(请参考MainActivity.class)<br><br>
    //构造方法，传入context、viewpager和数据。数据类型可自定义，一般包括图片的链接、文字，本地图片资源<br>
